@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_search" type="id" />
+    <item name="guideline4" type="id" />
+    <item name="guideline3" type="id" />
+    <item name="guideline5" type="id" />
+    <item name="frame_scan" type="id" />
+    <item name="guideline8" type="id" />
+    <item name="img_scan" type="id" />
+    <item name="fragme_microhpone" type="id" />
+    <item name="img_mic" type="id" />
+    <item name="viewpager_home" type="id" />
+    <item name="tabLayout" type="id" />
+    <item name="guideline7" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="ed_last_name" type="id" />
+    <item name="ed_password" type="id" />
+    <item name="ed_email" type="id" />
+    <item name="ed_first_name" type="id" />
+</resources>
